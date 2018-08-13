@@ -4,8 +4,7 @@
     "type": "yii2-extension",
     "keywords": ["yii2","extension","module","fias"],
     "license": "BSD-4-Clause",
-    "minimum-stability": "stable"
-    ],
+    "minimum-stability": "stable",
     "require": {
         "yiisoft/yii2": "*"
     },
