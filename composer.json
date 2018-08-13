@@ -1,0 +1,21 @@
+{
+    "name": "alexvendor2018/yii2-fias",
+    "description": "Address autocompletion",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","module","fias"],
+    "license": "BSD-4-Clause",
+    "authors": [
+        {
+            "name": "OmgDef",
+            "email": "alexvendor2018@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "alexvendor2018\\fias\\": ""
+        }
+    }
+}
